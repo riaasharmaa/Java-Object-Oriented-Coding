@@ -1,0 +1,35 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Build
+target/
+build/
+out/
+
+# Audio files (if large)
+# *.mid
+# *.wav
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+
